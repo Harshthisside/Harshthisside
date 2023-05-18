@@ -1,16 +1,12 @@
-### Hi there I am Harsh👋
+### Hi Everyone, I am Harsh Kumar👋
+## CSE(UG) student, KIIT, Bhubaneswar, Odisha
 
-<!--
-**Harshthisside/Harshthisside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Frontend.
+- 🌱 I’m currently learning MERN.
+- 👯 I’m looking to collaborate on Fullstack projects.
+- 🤔 I’m looking for help with DevOps.
+- 💬 Ask me about coding.
+- 📫 How to reach me: harshkumar.hr123@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Bank only increase your money in terms of number not in value
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
